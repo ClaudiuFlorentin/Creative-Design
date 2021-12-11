@@ -1,4 +1,4 @@
-# [TEMPLATE] Creative Design - HTML, SASS & JavaScript
+# Creative Design - HTML, SASS & JavaScript
 <b>LIVE Preview:</b> https://creativedesign.claudiudesign.ro/
 
 <!-- <h2>RELEASE: v1.0</h2>
